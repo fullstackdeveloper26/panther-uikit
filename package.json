@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/gabrielpino26/panther-uikit.git",
+  "repository": "https://github.com/gabrielpino26/panther-uikit",
   "license": "MIT",
   "scripts": {
     "build": "rm -rf ./dist && rollup -c && tsc -d --emitDeclarationOnly --declarationDir dist",
